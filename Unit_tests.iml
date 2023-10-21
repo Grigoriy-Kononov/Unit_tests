@@ -8,6 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="assertj.core" level="application" />
-    <orderEntry type="library" name="testng" level="application" />
+    <orderEntry type="library" exported="" name="testng" level="application" />
+    <orderEntry type="library" exported="" name="junit.jupiter.api" level="project" />
   </component>
 </module>
