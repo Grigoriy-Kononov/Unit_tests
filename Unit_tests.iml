@@ -10,5 +10,6 @@
     <orderEntry type="library" exported="" name="assertj.core" level="application" />
     <orderEntry type="library" exported="" name="testng" level="application" />
     <orderEntry type="library" exported="" name="junit.jupiter.api" level="project" />
+    <orderEntry type="library" exported="" name="mockito.all" level="project" />
   </component>
 </module>
